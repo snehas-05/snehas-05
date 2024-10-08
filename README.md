@@ -12,6 +12,34 @@
 
 </div>
 
+<h2 >🔗Get in touch :</h2>         
+
+Hello, fellow mates!🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
+<div id="badges" align = "center">
+   <a href="https://github.com/snehas-05">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+ <a href="https://www.linkedin.com/in/sneha-singhania/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>  
+<h2 >👩‍💻About me : </h2>
+    🎓 Enthused CSE student graduating from CTU in 2027, constantly evolving my skillset to learn Data Science. <br><br>
+    🌱 I’m currently advancing my Python skills through a 60-day challenge.  <br><br>
+    🤝 Open to collaborating on AI/ML, Blockchain, and Open Source projects.  <br><br>
+    🌍 I aim to apply technology to solve complex real-world problems and create ethical AI solutions.   <br><br>
+    💬 Let's talk about AI, Blockchain, Python, and web development.   <br><br>
+    ⚡ Fun Fact: I’m also passionate about robotics and automation.  <br><br>
+     <br><br>
+    📩 Get in touch: 
+    <a href="mailto:snehasinghania005@gmail.com">snehasinghania005@gmail.com</a>
+
+<h2>:hammer_and_wrench: Languages and Tools : <h2>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="PYTHON" alt="PYTHOB" width="40" height="40"/>&nbsp;
+  
 
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital coding journey! <br> <br>
