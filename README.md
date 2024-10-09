@@ -38,12 +38,12 @@ Hello, fellow mates!🖐️ Welcome to my GitHub profile! Reach out to me on the
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="PYTHON" alt="PYTHOB" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
   
 
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital coding journey! <br> <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=snehas-05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/sanchitc05) <br>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=snehas-05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/snehas-05) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snehas-05&theme=dark)](https://git.io/streak-stats)
 
 #### 🔍 Profile views :
