@@ -47,7 +47,7 @@ Peek into my GitHub stats to check out my digital coding journey! <br> <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snehas-05&theme=dark)](https://git.io/streak-stats)
 
 #### 🔍 Profile views :
-![Visitor Count](https://profile-counter.glitch.me/{sanchitc05}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{snehas-05}/count.svg)
 
 <div align="center">
     <h1>
