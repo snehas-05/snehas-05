@@ -21,7 +21,7 @@
 
 ---
 
-## `$ whoami`
+## 👩‍💻 whoami
 
 > CS undergrad (2027) obsessed with one question: **how do AI systems actually think at scale?**
 
