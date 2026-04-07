@@ -6,9 +6,7 @@
 
 <div align="center">
 
-```
-  Building intelligent systems that reason, retrieve, and respond.
-```
+<h2>🚀 Building intelligent systems that reason, retrieve, and respond.</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=RAG+Systems+%7C+LangGraph+Agents;FastAPI+%7C+Next.js+%7C+Vector+Search;AI+that+debugs+code+so+you+don't+have+to.)](https://git.io/typing-svg)
 
@@ -28,41 +26,18 @@
 I build at the intersection of **retrieval, reasoning, and real-world impact** — from RAG pipelines to multi-step agents. My work leans backend-heavy, systems-first, and always production-aware.
 
 - 🧠 **Focus:** AI Systems · RAG Architectures · Agent Frameworks · Backend Engineering
-- 🔬 **Currently building:** [CodeRAG](#-featured-project--coderag) — an AI debugging agent
+- 🔬 **Currently building:** CodeRAG — an AI debugging agent
 - 🌱 **Learning:** Advanced agentic systems · System design at scale · Hybrid search architectures
 - 🤝 **Open to:** AI/ML collabs, open-source contributions, research discussions
 - 📍 Punjab, India
 
----
+### 💡 What I Bring
 
-## 🚀 Featured Project — CodeRAG
-
-> **An AI-powered debugging system that finds root causes — not just symptoms.**
-
-Most debugging tools tell you *where* the error is. CodeRAG tells you *why* it happened — by reasoning across your entire codebase context.
-
-```
-User reports bug → CodeRAG indexes codebase + logs + docs + git history
-                 → Hybrid search retrieves relevant context
-                 → LangGraph agent reasons across evidence
-                 → Root cause + suggested fix returned
-```
-
-| Layer | Technology |
-|---|---|
-| 🔙 Backend | `FastAPI` |
-| 🖥️ Frontend | `Next.js` |
-| 🧬 Code Embeddings | `CodeBERT` |
-| 🗄️ Vector Store | `ChromaDB` |
-| 🔍 Search Engine | `Elasticsearch` |
-| 🤖 Agent Framework | `LangGraph` |
-| 🔀 Search Strategy | `Hybrid (BM25 + Vector)` |
-
-**What makes it different:**
-- 📁 **Code-aware search** — understands functions, classes, call graphs
-- 🔗 **Cross-context reasoning** — correlates logs, docs, and commits
-- 🧩 **Multi-step agents** — doesn't guess; it traces
-- 💡 **Actionable output** — fix suggestions with reasoning, not just pointers
+- 🧩 Strong understanding of **AI system design (RAG + Agents)**
+- ⚙️ Ability to build **end-to-end backend systems**
+- 🔍 Focus on **problem-solving, not just implementation**
+- 📊 Experience with **real-world datasets and ML workflows**
+- 🚀 Builder mindset — turning ideas into working systems
 
 ---
 
@@ -96,12 +71,51 @@ User reports bug → CodeRAG indexes codebase + logs + docs + git history
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Project — CodeRAG
+
+> **An AI-powered debugging system that finds root causes — not just symptoms.**
+
+Most debugging tools tell you *where* the error is. CodeRAG tells you *why* it happened — by reasoning across your entire codebase context.
+
+```
+User reports bug → CodeRAG indexes codebase + logs + docs + git history
+                 → Hybrid search retrieves relevant context
+                 → LangGraph agent reasons across evidence
+                 → Root cause + suggested fix returned
+```
+
+| Layer | Technology |
+|---|---|
+| 🔙 Backend | `FastAPI` |
+| 🖥️ Frontend | `Next.js` |
+| 🧬 Code Embeddings | `CodeBERT` |
+| 🗄️ Vector Store | `ChromaDB` |
+| 🔍 Search Engine | `Elasticsearch` |
+| 🤖 Agent Framework | `LangGraph` |
+| 🔀 Search Strategy | `Hybrid (BM25 + Vector)` |
+
+**What makes it different:**
+- 📁 **Code-aware search** — understands functions, classes, call graphs
+- 🔗 **Cross-context reasoning** — correlates logs, docs, and commits
+- 🧩 **Multi-step agents** — doesn't guess; it traces
+- 💡 **Actionable output** — fix suggestions with reasoning, not just pointers
 
 ---
 
