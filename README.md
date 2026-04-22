@@ -123,7 +123,7 @@ User reports bug → CodeRAG indexes codebase + logs + docs + git history
 
 ```python
 class Sneha:
-    status       = "Building CodeRAG — AI debugging agent"
+    status       = "Shipping AI systems that retrieve, reason, and solve real problems"
     learning     = ["Advanced RAG patterns", "Agentic system design", "Distributed systems"]
     exploring    = ["Multi-agent orchestration", "Graph-based retrieval", "Eval frameworks for LLMs"]
     open_to      = "Interesting problems worth solving"
